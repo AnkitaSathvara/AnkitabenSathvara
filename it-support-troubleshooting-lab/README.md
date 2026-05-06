@@ -23,4 +23,7 @@ Each scenario includes:
 
 ## Scenarios
 
-- Scenarios/computer-not-turning-on.md
+## Scenarios
+
+- [Computer Not Turning On](./scenarios/computer-not-turning-on.md)
+- [No Internet Connection](./scenarios/no-internet-connection.md)
