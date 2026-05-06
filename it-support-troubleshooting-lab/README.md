@@ -23,5 +23,4 @@ Each scenario includes:
 
 ## Scenarios
 
-- [Computer Not Turning On](scenarios/computer-not-turning-on.md)
-- [No Internet Connection](scenarios/no-internet-connection.md)
+-it-support-troubleshooting-lab/Scenarios/computer-not-turning-on.md
