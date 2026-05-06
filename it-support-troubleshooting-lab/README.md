@@ -23,4 +23,4 @@ Each scenario includes:
 
 ## Scenarios
 
-- scenarios/computer-not-turning-on.md
+- Scenarios/computer-not-turning-on.md
