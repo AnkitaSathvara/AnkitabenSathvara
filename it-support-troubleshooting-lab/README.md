@@ -20,3 +20,8 @@ Each scenario includes:
 * Possible causes
 * Troubleshooting steps
 * Outcome
+
+## Scenarios
+
+- [Computer Not Turning On](scenarios/computer-not-turning-on.md)
+- [No Internet Connection](scenarios/no-internet-connection.md)
