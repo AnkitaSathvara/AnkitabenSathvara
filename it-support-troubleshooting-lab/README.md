@@ -23,4 +23,4 @@ Each scenario includes:
 
 ## Scenarios
 
--it-support-troubleshooting-lab/Scenarios/computer-not-turning-on.md
+- it-support-troubleshooting-lab/Scenarios/computer-not-turning-on.md
