@@ -1,13 +1,22 @@
-IT Support Troubleshooting Lab
-Overview
+# IT Support Troubleshooting Lab
 
-This project demonstrates common IT support issues and how to troubleshoot them step by step.
+## Overview
 
-Skills Demonstrated
-Hardware troubleshooting
-Windows OS troubleshooting
-Basic networking
-Problem-solving methodology
-Purpose
+This project contains real-world IT support scenarios and step-by-step troubleshooting solutions.
+It demonstrates practical skills used in a helpdesk or IT support role.
 
-To showcase practical IT support knowledge and real-world troubleshooting scenarios.
+## Skills Demonstrated
+
+* Hardware troubleshooting
+* Windows OS troubleshooting
+* Basic networking
+* Problem-solving methodology
+
+## Structure
+
+Each scenario includes:
+
+* Problem
+* Possible causes
+* Troubleshooting steps
+* Outcome
