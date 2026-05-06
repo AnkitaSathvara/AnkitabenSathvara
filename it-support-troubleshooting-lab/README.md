@@ -29,3 +29,4 @@ Each scenario includes:
 - [No Internet Connection](./Scenarios/no-internet-connection.md)
 - [User Cannot Log In](./Scenarios/user-cannot-login.md)
 - [Printer Not Working](./Scenarios/printer-not-working.md)
+- [Email Not Working](./Scenarios/email-not-working.md)
