@@ -28,3 +28,4 @@ Each scenario includes:
 - [Computer Not Turning On](./Scenarios/computer-not-turning-on.md)
 - [No Internet Connection](./Scenarios/no-internet-connection.md)
 - [User Cannot Log In](./Scenarios/user-cannot-login.md)
+- [Printer Not Working](./Scenarios/printer-not-working.md)
