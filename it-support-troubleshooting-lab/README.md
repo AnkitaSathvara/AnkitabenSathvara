@@ -25,8 +25,8 @@ Each scenario includes:
 
 ## Scenarios
 
-- [Computer Not Turning On](./Scenarios/computer-not-turning-on.md)
-- [No Internet Connection](./Scenarios/no-internet-connection.md)
-- [User Cannot Log In](./Scenarios/user-cannot-login.md)
-- [Printer Not Working](./Scenarios/printer-not-working.md)
-- [Email Not Working](./Scenarios/email-not-working.md)
+- [Diagnosing Desktop Power Failure Issues](./Scenarios/computer-not-turning-on.md)
+- [Resolving Network Connectivity Issues](./Scenarios/no-internet-connection.md)
+- [Resolving Active Directory User Login Issues](./Scenarios/user-cannot-login.md)
+- [Troubleshooting Printer Connectivity and Printing Issues](./Scenarios/printer-not-working.md)
+- [Resolving Microsoft Outlook Email Synchronization Issues](./Scenarios/email-not-working.md)
