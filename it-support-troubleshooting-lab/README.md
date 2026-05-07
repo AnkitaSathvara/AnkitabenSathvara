@@ -25,8 +25,12 @@ Each scenario includes:
 
 ## Scenarios
 
-- [Diagnosing Desktop Power Failure Issues](./Scenarios/computer-not-turning-on.md)
-- [Resolving Network Connectivity Issues](./Scenarios/no-internet-connection.md)
-- [Resolving Active Directory User Login Issues](./Scenarios/user-cannot-login.md)
-- [Troubleshooting Printer Connectivity and Printing Issues](./Scenarios/printer-not-working.md)
-- [Resolving Microsoft Outlook Email Synchronization Issues](./Scenarios/email-not-working.md)
+- [Diagnosing and Resolving Desktop Power Failure Issues](./Scenarios/Diagnosing%20and%20Resolving%20Desktop%20Power%20Failure%20Issues.md)
+
+- [Diagnosing and Resolving Network Connectivity Issues](./Scenarios/Diagnosing%20and%20Resolving%20Network%20Connectivity%20Issues.md)
+
+- [Resolving Active Directory User Login Issues](./Scenarios/Resolving%20Active%20Directory%20User%20Login%20Issues.md)
+
+- [Resolving Microsoft Outlook Email Synchronization Issues](./Scenarios/Resolving%20Microsoft%20Outlook%20Email%20Synchronization%20Issues.md)
+
+- [Troubleshooting Printer Connectivity and Printing Issues](./Scenarios/Troubleshooting%20Printer%20Connectivity%20and%20Printing%20Issues.md)
