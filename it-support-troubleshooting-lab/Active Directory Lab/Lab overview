@@ -11,7 +11,7 @@ This project is a basic Active Directory lab built using Windows Server in a vir
 
 ## Tools Used
 - Windows Server (Virtual Machine)
-- Oracle VirtualBox / VMware
+- Oracle VirtualBox
 - Active Directory Users and Computers (ADUC)
 
 ## Screenshots
