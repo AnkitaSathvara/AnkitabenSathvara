@@ -1,0 +1,18 @@
+# Active Directory Lab
+
+## Overview
+This project is a basic Active Directory lab built using Windows Server in a virtual environment. It was created to practice IT support and Windows Server administration skills.
+
+## What I did
+- Installed and configured Active Directory Domain Services (AD DS)
+- Set up DNS on Windows Server
+- Created domain users and groups
+- Configured basic domain environment
+
+## Tools Used
+- Windows Server (Virtual Machine)
+- Oracle VirtualBox / VMware
+- Active Directory Users and Computers (ADUC)
+
+## Screenshots
+Screenshots of the setup are included in the repository.
